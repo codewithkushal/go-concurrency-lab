@@ -1,5 +1,5 @@
-package lab
+package executor
 
 type Executor interface {
-	Execeute()
+	Execute()
 }
